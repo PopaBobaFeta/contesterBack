@@ -54,7 +54,7 @@ ROOT_URLCONF = 'contesterBack.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': [os.path.join(BASE_DIR, 'MainApp/templates')],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
