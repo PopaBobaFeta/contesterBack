@@ -1,0 +1,47 @@
+.header{
+	text-align: center;
+	font: small-caps bold 24px/1 sans-serif;
+	background-color:#EDECEC;
+	border:1px solid;
+	border-top-color:#DCDCDC;
+	border-bottom-color:#DCDCDC;
+}
+#User_meet{
+	background-color: #EEECEC;
+    position: absolute;
+    top: 50%;
+    left: 42%;
+    margin: -125px 0 0 -125px;
+}
+#reg{
+	background-color: #565656;
+	border-color: #565656;
+
+}
+#reg2{
+	background-color: #565656;
+	border-color: #565656;
+
+}
+#reg3{
+	background-color: #565656;
+	border-color: #565656;
+
+}
+#reg4{
+	background-color: #565656;
+	border-color: #565656;
+
+}
+#reg:hover{
+	background-color:#1C1C1C;
+}
+#reg2:hover{
+	background-color:#1C1C1C;
+}
+#reg3:hover{
+	background-color:#1C1C1C;
+}
+#reg4:hover{
+	background-color:#1C1C1C;
+}
